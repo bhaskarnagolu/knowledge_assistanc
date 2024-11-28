@@ -1,0 +1,15 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-amsportal-dev-83042-authRole",
+      "UnauthRoleArn": "arn:aws:iam::937017766357:role/amplify-amsportal-dev-83042-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::937017766357:role/amplify-amsportal-dev-83042-authRole",
+      "Region": "ap-northeast-2",
+      "DeploymentBucketName": "amplify-amsportal-dev-83042-deployment",
+      "UnauthRoleName": "amplify-amsportal-dev-83042-unauthRole",
+      "StackName": "amplify-amsportal-dev-83042",
+      "StackId": "arn:aws:cloudformation:ap-northeast-2:937017766357:stack/amplify-amsportal-dev-83042/3d7c5980-6bbb-11ee-8db8-0acbad888eb0",
+      "AmplifyAppId": "d1ygs80tru83rt"
+    }
+  }
+}
